@@ -394,7 +394,7 @@ ALTER TABLE [dbo].[SysStruct] ADD  CONSTRAINT [DF__SysStruct__Creat__047AA831]  
 GO
 
 维修记录表：
-USE [GXCloudPlatform]
+USE [xxxxxxxxxxxx]
 GO
 
 /****** Object:  Table [dbo].[MIS_ComponentMaintenanceRecord]    Script Date: 2017/11/30 17:52:10 ******/
